@@ -1,0 +1,27 @@
+1
+Crepa Dulce
+4000
+2
+Crepa Salada
+5000
+3
+Pitas
+6000
+4
+Pizza Personal
+7000
+5
+Pizza Mediana
+8000
+6
+Pizza Grande
+9000
+7
+Pizza Familiar
+10000
+8
+Combo Familiar
+11000
+9
+Combo Empresarial
+12000

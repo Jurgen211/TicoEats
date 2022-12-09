@@ -1,0 +1,22 @@
+
++======================================+
+			DUDAS GENERALES
++======================================+
+
+1) Lista de Reportes, puntos A, B, C y D
+	-¿A qué se refiere con inclusión?
+	
+2) Sobre el manejo de archivos
+	-¿Cómo filtrar informacion de un archivo según un dato en específico? (estado activo, suspendido, amonestaciones)
+	-¿Los objetos se crean a partir de la informacion en los archivos?
+	
+3) Sobre el punto P
+	-¿La hora pico se determina con la hora local de la computadora o el usuario debe ingresar esa información?
+	
+4) Respecto a los repartidores
+	-¿El cobro de kilometro segun el día es necesario dividirlo en días hábiles y feriados o podemos trabajar solo con los hábiles?
+	-¿Cómo se determina la distancia para saber cuánto debe cobrar por transporte el repartidor?
+	
+5) Sobre las quejas
+	-¿Cómo se tramitan las quejas?
+	-¿Se guardan en un tipo de lista o archivos asociados a cada repartidor/usuario?
